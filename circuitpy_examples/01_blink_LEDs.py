@@ -13,7 +13,7 @@ while True:
     led.value = True
     time.sleep(2)
     led.value = False
-    time.sleep(1)
+    time.sleep(1.5)
     
 # Tasks:
 # - Try an on-off cycle of 2:1, 0.2:0.1, 0.002:0.001 etc
